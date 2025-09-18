@@ -37,15 +37,18 @@ dependency-diversification-demo/
 ## 🚀 Installation et exécution
 
 ### 1. Cloner le projet
-
+```
 git clone https://github.com/<ton-username>/dependency-diversification-demo.git
 cd dependency-diversification-demo
-
+```
 2. Lancer les tests Maven
+```
 mvn clean test
-
+```
 3. Lancer l’application Spring Boot
+```
 mvn spring-boot:run
+```
 
 Puis accéder à :
 

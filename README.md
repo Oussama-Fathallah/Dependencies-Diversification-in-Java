@@ -22,6 +22,7 @@ aux interactions entre une application **Spring Boot** et ses **dépendances log
   - `JsonService` intercepte dynamiquement la bibliothèque disponible.
 
 ## 📂 Structure du projet
+```
 dependency-diversification-demo/
 │── pom.xml
 │── src/
@@ -32,7 +33,7 @@ dependency-diversification-demo/
 │ │ ├── service/DatabaseService.java
 │ │ └── service/SqlRandService.java
 │ └── test/java/com/example/demo/DemoApplicationTests.java
-
+```
 
 ## 🚀 Installation et exécution
 

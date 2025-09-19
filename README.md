@@ -79,7 +79,8 @@ La structure JSON peut varier selon la bibliothèque choisie (Jackson ou Gson).
 📄 Rapport
 
 Le rapport complet est disponible ici :
-👉 [Dependencies_Diversification_in_Java.pdf](https://github.com/user-attachments/files/22424092/Dependencies_Diversification_in_Java.pdf)
+👉 [Dependencies_Diversification_in_Java.pdf](https://github.com/user-attachments/files/22427162/Dependencies_Diversification_in_Java.pdf)
+
 
 
 ✨ Références
